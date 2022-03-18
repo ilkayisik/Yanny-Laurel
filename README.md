@@ -1,4 +1,4 @@
-__Signal processing with YANNY and LAUREL __
+__Signal processing with YANNY and LAUREL__
 
 
 This repository contains a jupyter notebook that loads 
